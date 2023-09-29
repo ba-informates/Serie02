@@ -1,7 +1,7 @@
-pulbic class Error {
-    public statci void main(String[] args) {
-        System.out.printnl("Correct Me");
-        int a = 2
-        int b = "abc";
+public class Error {
+    public static void main(String[] args) {
+        System.out.println("Correct Me");
+        int a = 2;
+        String b = "abc";
     }
 }
